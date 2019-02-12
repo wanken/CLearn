@@ -1,0 +1,6 @@
+/mnt/d/Work/GitHub/CLearn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/Work/GitHub/CLearn/cmake-build-debug/CMakeFiles/power.dir
+/mnt/d/Work/GitHub/CLearn/cmake-build-debug/CMakeFiles/getchat.dir
+/mnt/d/Work/GitHub/CLearn/cmake-build-debug/CMakeFiles/helloworld.dir
+/mnt/d/Work/GitHub/CLearn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Work/GitHub/CLearn/cmake-build-debug/CMakeFiles/fahrenheit.dir

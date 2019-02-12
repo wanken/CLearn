@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/getchat.dir/chapter1/getchar.c.o  -o getchat 
