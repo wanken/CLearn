@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -rdynamic CMakeFiles/fahrenheit.dir/chapter1/fahrenheit.c.o  -o fahrenheit 
