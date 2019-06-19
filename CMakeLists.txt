@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.14)
+project(test C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(checkEOF chapter1/checkEOF.c)
+add_executable(copyFile chapter1/copyFile.c)
+add_executable(copyInputToOptput chapter1/copyInputToOptput.c)
+add_executable(countChar chapter1/countChar.c)
+add_executable(countChar2 chapter1/countChar2.c)
+add_executable(fahrenheit chapter1/fahrenheit.c)
+add_executable(getchar chapter1/getchar.c)
+add_executable(main chapter1/main.c)
+add_executable(power chapter1/power.c)
+add_executable(printEOF chapter1/printEOF.c)
