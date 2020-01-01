@@ -6,11 +6,13 @@
 
 int power(int m, int n);
 
+int power2(int base, int n);
+
 int main() {
 
     int i;
     for (i = 0; i < 10; ++i) {
-        printf("%d %d %d \n", i, power(2, i), power(-3, i));
+        printf("%d %d %d \n", i, power2(3, i), power2(-3, i));
     }
     return 0;
 }
@@ -23,4 +25,12 @@ int power(int m, int n) {
         p = p * m;
     }
     return p;
+}
+
+int power2(int base, int n){
+    int s;
+    for(s = 1; n > 0; --n){
+        s = s * base;
+    }
+    return s;
 }
